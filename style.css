@@ -1,0 +1,23 @@
+.grid{
+    display:flex;
+    justify-content:space-between ;
+    background-color:lightskyblue;
+}
+.grid img{
+    border: 3px;
+    border-style: double;
+    border-radius: 50px;
+    border-color: rgb(201, 58, 201);
+}
+.header h1{
+    font-style: oblique;
+    color:rgb(187, 54, 240);
+    background-color: lightcoral;
+}
+.header h3{
+    font-style: italic;
+    color: violet;
+}
+.header h2{
+    color: teal;
+}
